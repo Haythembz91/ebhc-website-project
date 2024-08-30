@@ -9,11 +9,11 @@ const Header = ()=>{
             </div>
             <nav className={"navbar"}>
                 <ul className={"navbar-nav flex-row list-unstyled"}>
-                    <li>Accueil</li>
-                    <li>A propos</li>
-                    <li>Nos services</li>
-                    <li>Gallery</li>
-                    <li>Contact</li>
+                    <li className={'list-item'}>Accueil</li>
+                    <li className={'list-item'}>A propos</li>
+                    <li className={'list-item'}>Nos services</li>
+                    <li className={'list-item'}>Gallery</li>
+                    <li className={'list-item'}>Contact</li>
                 </ul>
             </nav>
         </header>
