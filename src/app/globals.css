@@ -1,1 +1,4 @@
-
+.carousel-inner{
+    height: 100dvh;
+    object-fit: fill;
+}
