@@ -1,6 +1,6 @@
 import Header from "@/app/components/Header";
 
-const projects = ()=>{
+const page = ()=>{
     return(
         <div><Header></Header>
             <main>
@@ -10,4 +10,4 @@ const projects = ()=>{
     )
 }
 
-export default projects
+export default page

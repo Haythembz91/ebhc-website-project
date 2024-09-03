@@ -1,6 +1,6 @@
 import Header from "@/app/components/Header";
 
-const contact = ()=>{
+const page = ()=>{
     return(
         <div><Header></Header>
             <main>
@@ -10,4 +10,4 @@ const contact = ()=>{
     )
 }
 
-export default contact
+export default page

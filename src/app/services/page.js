@@ -1,6 +1,6 @@
 import Header from "@/app/components/Header";
 
-const services = ()=>{
+const page = ()=>{
     return(
         <div><Header></Header>
             <main>
@@ -10,4 +10,4 @@ const services = ()=>{
     )
 }
 
-export default services
+export default page
