@@ -19,7 +19,18 @@ const Main = ()=>{
                 </div>
             </section>
             <section>
-
+            <h1 className={"text-center py-4"}>NOS SERVICES</h1>
+                <div className={"container d-md-flex"}>
+                    <div className={"col-6 py-3"}>
+                        Image
+                    </div>
+                    <div>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi delectus dignissimos ea esse et magni maxime perspiciatis recusandae sit ullam.
+                    </div>
+                </div>
+            </section>
+            <section>
+                <h1 className={"text-center py-4"}>REFERENCES</h1>
             </section>
         </div>
     )

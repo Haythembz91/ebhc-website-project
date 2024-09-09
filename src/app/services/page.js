@@ -4,7 +4,7 @@ const page = ()=>{
     return(
         <div><Header></Header>
             <main>
-                <div>services section</div>
+                <section></section>
             </main>
         </div>
     )
